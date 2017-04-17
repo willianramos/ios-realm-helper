@@ -1,4 +1,4 @@
-# Realm Helper on Android
+# Realm Helper to Swift (iOS)
 
 
 A simple Helper to manage informations on Realm (https://realm.io) on Android.
