@@ -1,7 +1,7 @@
 # Realm Helper to Swift (iOS)
 
 
-A simple Helper to manage informations on Realm (https://realm.io) on Android.
+A simple Helper to manage informations on Realm (https://realm.io) in iOS projects.
 
 
 Install
