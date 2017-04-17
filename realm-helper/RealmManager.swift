@@ -6,7 +6,6 @@
 //
 
 import RealmSwift
-import SwiftyJSON
 
 class RealmManager: NSObject {
     
